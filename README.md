@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ismail Yılmaz</h1>
 <h3 align="center">Backend Developer && Full stack developer</h3>
 
-- 🔭 I’m currently working on [Todo](https://github.com/ismailylmz31/todo_project)
+- 🔭 I’m currently working on OrderApp Backend
 
 - 🌱 I’m currently learning **Django & Spring Framework, Java, Python**
 
