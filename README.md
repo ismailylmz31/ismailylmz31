@@ -12,6 +12,9 @@
 - 📫 How to reach me **ismail732yilmaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p allign="left">
+  Phone number = +90 545 972 95 50 
+</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/ismail-yılmaz-94835025a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-yılmaz-94835025a/" height="30" width="40" /></a>
 </p>
