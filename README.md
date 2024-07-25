@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django & Spring Framework, Java, Python**
 
-- 👯 I’m looking to collaborate on [Todo_api](https://github.com/ismailylmz31/todo_project)
+- 👯 I’m looking to collaborate on [siparisApp_Backend](https://github.com/Softalya-group/siparisApp_Backend)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ismailylmz31](https://github.com/ismailylmz31)
 
