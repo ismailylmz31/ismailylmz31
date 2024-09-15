@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ismail Yılmaz</h1>
 <h3 align="center">Backend Developer && Full stack developer</h3>
 
-- 🔭 I’m currently working on https://github.com/ismailylmz31/yemeksepeti_backend Backend
+- 🔭 I’m currently working on C# && ASP .NET CORE Learnin with TechCareer(kariyer.net)
 
-- 🌱 I’m currently learning **Django & Spring Framework, Java, Python**
+- 🌱 I’m currently learning **C# / ASP .NET CORE **
 
 - 👯 I’m looking to collaborate on [siparisApp_Backend](https://github.com/Softalya-group/siparisApp_Backend)
 
